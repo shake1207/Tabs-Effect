@@ -1,0 +1,39 @@
+body{
+	color: #191919;
+	font-family: sans-serif;
+	font-weight: 400;
+	font-size: 0.9375rem;
+	margin: 0;
+	padding: 20px;
+}
+.nav-tabs{
+	border: none;
+}
+.nav-tabs h4{
+	font-weight: normal;
+	margin-bottom: 0;
+}
+.nav-tabs .nav-link{
+	background: transparent;
+	border: none;
+	border-bottom: 0.1875rem transparent;
+	margin-left: 0.9735rem;
+	margin-right: 0.9735rem;
+	padding-left: 0;
+	padding-right: 0;
+	color: inherit;
+	opacity: 0.5;
+}
+.nav-tabs .nav-link.active{
+	color: #191919;
+	background: #f26d7d;
+	border-bottom: 0.1875rem solid #f26d7d;
+	border-radius: 50px;
+	padding: 12px 20px;
+	color: #fff;
+	opacity: 1;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
